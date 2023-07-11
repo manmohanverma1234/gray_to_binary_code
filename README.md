@@ -1,5 +1,7 @@
 # gray_to_binary_code
 
+The reflected binary code or Gray code is an ordering of the binary numeral system such that two successive values differ in only one bit (binary digit). For conversion of binary number into a Gray code number, following rules are applied.
+
 Gray to binary conversion :
 
 The Most Significant Bit (MSB) of the binary code is always equal to the MSB of the given gray code.
